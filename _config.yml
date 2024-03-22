@@ -84,16 +84,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Mandy Balthasar"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "Computer Scientist"
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "https://orcid.org/0000-0002-5037-8242"
+  googlescholar    : "https://scholar.google.com/citations?user=gSIoEN0AAAAJ&hl=en"
+  email            : "mandy.balthasar@unibw.de"
+  researchgate     : "https://www.researchgate.net/profile/Mandy-Balthasar"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,18 +101,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : 
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         : "https://de.linkedin.com/in/m-balthasar"
+  mastodon         : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
